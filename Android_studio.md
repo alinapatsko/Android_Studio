@@ -19,7 +19,7 @@ Create New Project:
 
 3. Настройка AVD (Android Virtual Device) 
 
-![Alt tag](one.png)
+![Alt Text](/image/one.png)
 
 Если в верхнем левом углу написано HAXM is not installed – нажать Install Haxm.
 
