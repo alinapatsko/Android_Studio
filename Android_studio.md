@@ -1,21 +1,22 @@
 Установка и настройка Android Studio
 ===============
 
-1. Установка Android Studio
+**1. Установка Android Studio**
 
-Install Type – выбрать вариант установки Custom. 
-Select default JDK Location – оставить путь без изменений.
-SDK Components Setup – в поле Android SDK Location указать путь установки C:\SDK.
+- Install Type – выбрать вариант установки Custom. 
+- Select default JDK Location – оставить путь без изменений.
+- SDK Components Setup – в поле Android SDK Location указать путь установки C:\SDK.
 Выбрать Android SDK, Android Virtual Device и Performance.
 
-2. Настройка Android Studio
+**2. Настройка Android Studio**
 
-Для того, чтобы настроить Android Studio нужно выбрать Create New Project, Open an Existing Project или Profile or Debug APK, в зависимости от того, что необходимо сделать.
-Create New Project:
-поле Name – имя приложения (например, My App)
-поле Package name – имя пакета приложения (com.example.myapp) – имя пакета должно быть уникальным
-поле Language – язык разработки (JAVA, Kotlin)
-поле Minimum SDK – выбрать минимальную версию платформы Android. 
+Для того, чтобы настроить Android Studio нужно выбрать **Create New Project, Open an Existing Project** или **Profile or Debug APK**, в зависимости от того, что необходимо сделать.
+
+**Create New Project:**
+* поле Name – имя приложения (например, My App)
+* поле Package name – имя пакета приложения (com.example.myapp) – имя пакета должно быть уникальным
+- поле Language – язык разработки (JAVA, Kotlin)
+- поле Minimum SDK – выбрать минимальную версию платформы Android. 
 
 3. Настройка AVD (Android Virtual Device) 
 
