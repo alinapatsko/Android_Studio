@@ -18,7 +18,9 @@ Create New Project:
 поле Minimum SDK – выбрать минимальную версию платформы Android. 
 
 3. Настройка AVD (Android Virtual Device) 
-![Screenshot](one.png)
+
+![Alt tag](one.png)
+
 Если в верхнем левом углу написано HAXM is not installed – нажать Install Haxm.
 
 Если при установке отобразится следующая ошибка, то нужно еще настроить аппаратную виртуализацию в BIOS.
